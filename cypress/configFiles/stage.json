@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://ketu.homes-test.com",
+  "env": {
+    "environment": "stage",
+
+    "expectedRelativeUrlMap": {
+      "Auckland": "/map/auckland/auckland?searchLoc=ldb%60Fqfui%60@",
+      "Petone": "/map/lower-hutt/petone?searchLoc=jvrzFwclj%60@",
+      "PuruCresent45": "/map/wellington/lyall-bay/puru-crescent/45?searchLoc=rhf%7BFyb%7Bi%60@"
+    }
+  }
+}

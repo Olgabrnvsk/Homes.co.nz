@@ -1,0 +1,12 @@
+{
+	"baseUrl": "https://homes.co.nz",
+	"env": {
+		"environment": "production",
+
+		"expectedRelativeUrlMap": {
+			"Auckland": "/map/auckland/auckland?searchLoc=pdb%60Fafui%60@",
+			"Petone": "/map/lower-hutt/petone?searchLoc=nvrzFsclj%60@",
+			"PuruCresent45": "/map/wellington/lyall-bay/puru-crescent/45?searchLoc=rhf%7BFyb%7Bi%60@"
+		}
+	}
+}
